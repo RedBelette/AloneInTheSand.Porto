@@ -1,0 +1,29 @@
+
+// Ceci est le code d'exemple pour ajouter une fin
+class CfgDebriefing
+{
+
+	class End1
+	{
+		title = "Fin forcée par l'admin";
+		subtitle = "";
+		description = "Un administrateur a mis fin à la partie";
+		// pictureBackground = "";
+		// picture = "";
+		// pictureColor[] = {0.0,0.3,0.6,1};
+	};
+
+};
+
+class CfgIdentities
+{
+    class Heroine
+    {
+		name = "Bennett";
+        nameSound = "Bennett";
+        face="Fem_D";
+		glasses="None";
+		speaker="rhs_Female01ENG";
+		pitch=1.0;
+    };
+};
